@@ -1,4 +1,7 @@
 def dance 
   beats_left_in_song=60
-  if #finish this line, you should stop when beats = 0 
+  if beats_left_in_song=0 
+    break 
+  end
+  
   
