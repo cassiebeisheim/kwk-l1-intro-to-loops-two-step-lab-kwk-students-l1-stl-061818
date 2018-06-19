@@ -1,6 +1,6 @@
 3.times do 
   puts "right foot back"
-  sleep (.5)
+  sleep (0.5)
   puts "left foot back"
   sleep (1)
   puts "right foot back"
