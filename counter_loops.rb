@@ -20,7 +20,11 @@ loop do
     sleep(2)
     puts "everybody clap your hands"
     sleep(5)
+  moves_completed=moves_completed+1
+  
+  puts "you've completed #{moves_completed} moves!"
   end
+  
     
 end
 
