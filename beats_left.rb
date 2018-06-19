@@ -11,5 +11,11 @@ def dance
     puts "take it back now yall"
     sleep(0.1)
     beats_left_in_song=beats_left_in_song-10
+    puts "you have #{beats_left_in_song} beats left!"
+  end
+  
+end
+
+dance
   
   
