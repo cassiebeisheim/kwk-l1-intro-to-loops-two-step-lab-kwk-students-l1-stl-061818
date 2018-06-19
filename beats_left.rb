@@ -4,5 +4,6 @@ def dance
   if beats_left_in_song=0 
     break 
   end
+  puts "slide to the left"
   
   
