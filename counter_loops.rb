@@ -19,7 +19,7 @@ loop do
     puts "criss cross"
     sleep(2)
     puts "everybody clap your hands"
-    sleep(5)
+    sleep(2)
   moves_completed=moves_completed+1
   
   puts "you've completed #{moves_completed} moves!"
