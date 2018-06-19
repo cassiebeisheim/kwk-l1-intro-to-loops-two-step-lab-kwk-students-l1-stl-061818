@@ -1,5 +1,5 @@
 def air_conditioner
-  too_hot==true 
+  too_hot=true 
 
 loop do 
   if too_hot==true 
