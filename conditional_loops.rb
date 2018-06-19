@@ -6,6 +6,9 @@ loop do
   puts "turn on AC"
   sleep (2)
   end
+  
+  too_hot=false 
+  
   end
 
 
