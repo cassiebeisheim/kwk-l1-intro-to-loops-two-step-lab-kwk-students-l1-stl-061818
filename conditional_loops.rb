@@ -5,6 +5,10 @@ loop do
   if too_hot==true 
   puts "turn on AC"
   sleep (2)
+  end
+  end
+
+
 end
-end
-end
+
+air_conditioner
